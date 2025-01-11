@@ -1,4 +1,6 @@
 # React.js Frontend - Intern Application Assignment
+![Uploading image.png…]()
+
 
 This project is a React.js-based single-page application designed to demonstrate responsive UI development and interaction with an external or mock API. The website is built using JavaScript and showcases modern web development practices.
 
