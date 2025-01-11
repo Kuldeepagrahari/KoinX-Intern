@@ -12,5 +12,5 @@ This project serves as a demonstration of:
 ## Tech Stack
 - **Frontend Framework:** React.js
 - **Styling:** CSS 
-- **State Management:** React Context API (or basic useState if applicable)
-- **Routing:** React Router (if applicable)
+- **State Management:** React Context API
+- **Routing:** React Router 
